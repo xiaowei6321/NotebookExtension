@@ -1,0 +1,2 @@
+# NotebookExtension
+这是一个浏览器插件，用于在浏览器右侧控制一个textarea，并保存内容到localstorage
